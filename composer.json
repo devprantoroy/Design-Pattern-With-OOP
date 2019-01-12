@@ -1,0 +1,15 @@
+{
+  "authors": [
+    {
+      "name": "Pranto Prosad Roy",
+      "email": "www.prantoroy.com@gmail.com",
+      "homepage": "http://www.prantoroy.com",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
